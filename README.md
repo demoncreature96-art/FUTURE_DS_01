@@ -1,10 +1,10 @@
 ## Executive Dashboard
 
-![Executive Dashboard](Images/executive%20dashboard.png)
+![Executive Dashboard](Images/executive_dashboard.png)
 
 ## Strategic Insights Dashboard
 
-![Strategic Insights Dashboard](Images/strategic%20insights%20dashboard.png)
+![Strategic Insights Dashboard](Images/strategic_insights_dashboard.png)
 
 Superstore Sales Analytics Dashboard | Tableau  Interactive Tableau dashboard analyzing sales performance, profitability, regional trends, and growth opportunities using the Superstore dataset. The project combines executive-level KPI monitoring with strategic business insights and actionable recommendations to support data-driven decision-making.
 
