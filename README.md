@@ -1,4 +1,8 @@
+## Executive Dashboard
+
 ![Executive Dashboard](Images\executive_dashboard.png)
+
+## Strategic Insights Dashboard
 
 ![Strategic Insights Dashboard](Images\strategic_insights_dashboard.png)
 
