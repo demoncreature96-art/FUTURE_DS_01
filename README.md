@@ -1,12 +1,17 @@
 # FUTURE_DS_01
 Superstore Sales Analytics Dashboard | Tableau  Interactive Tableau dashboard analyzing sales performance, profitability, regional trends, and growth opportunities using the Superstore dataset. The project combines executive-level KPI monitoring with strategic business insights and actionable recommendations to support data-driven decision-making.
+
+---
+
 📊 Superstore Sales Analytics Dashboard
+
 Project Overview
 
 This project analyzes Superstore sales data to uncover revenue trends, top-performing products, regional profitability, and business growth opportunities. The solution consists of two Tableau dashboards:
 
 Executive Dashboard – KPI tracking and performance monitoring.
 Strategic Insights Dashboard – Business recommendations and actionable insights.
+
 🎯 Business Objective
 
 Analyze business sales data to identify:
@@ -24,7 +29,11 @@ Business Intelligence
 Data Analytics
 Dashboard Design
 Data Storytelling
+
+---
+
 📈 Dashboard 1: Executive Overview
+
 Features
 Total Revenue KPI
 Total Profit KPI
@@ -44,7 +53,11 @@ Dashboard Preview
 
 (Insert Executive Dashboard Screenshot Here)
 
+---
+
+
 🚀 Dashboard 2: Strategic Insights & Recommendations
+
 Revenue Insights
 Q4 generated the highest sales performance.
 Seasonal demand peaks during year-end periods.
