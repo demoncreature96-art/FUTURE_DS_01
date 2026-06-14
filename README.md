@@ -97,3 +97,17 @@ This dashboard enables stakeholders to:
 - Detect growth opportunities
 - Support strategic planning
 - Improve profitability through data-driven decisions.
+
+---
+
+## Author
+
+Vignesh K
+
+Passionate about Data Analytics, Business Intelligence, and Data Visualization. This project demonstrates the use of Tableau to transform raw sales data into actionable business insights and strategic recommendations.
+
+## Connect With Me
+- GitHub: https://github.com/demoncreature96-art
+- LinkedIn: [www.linkedin.com/in/vignesh-k0101]
+
+---
