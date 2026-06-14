@@ -16,40 +16,42 @@ Strategic Insights Dashboard – Business recommendations and actionable insight
 
 Analyze business sales data to identify:
 
-Revenue trends
-Top-selling products
-High-value categories
-Regional performance
-Profitability drivers
-Growth opportunities
+- Revenue trends
+- Top-selling products
+- High-value categories
+- Regional performance
+- Profitability drivers
+- Growth opportunities
+
 🛠 Tools Used
-Tableau
-Data Visualization
-Business Intelligence
-Data Analytics
-Dashboard Design
-Data Storytelling
+
+- Tableau
+- Data Visualization
+- Business Intelligence
+- Data Analytics
+- Dashboard Design
+- Data Storytelling
 
 ---
 
 📈 Dashboard 1: Executive Overview
 
-Features
-Total Revenue KPI
-Total Profit KPI
-Profit Margin KPI
-Total Orders KPI
-Top Category Analysis
-Regional Performance Analysis
-Profit Heatmap
-Revenue Trend Analysis
-Growth Opportunity Analysis
-Key Insights
-November recorded the highest revenue performance.
-Technology emerged as the highest-value category.
-West region generated the strongest sales performance.
-Phones and Chairs were the top-selling products.
-Dashboard Preview
+-Features
+-Total Revenue KPI
+- Total Profit KPI
+- Profit Margin KPI
+- Total Orders KPI
+- Top Category Analysis
+- Regional Performance Analysis
+- Profit Heatmap
+- Revenue Trend Analysis
+- Growth Opportunity Analysis
+- Key Insights
+- November recorded the highest revenue performance.
+- Technology emerged as the highest-value category.
+- West region generated the strongest sales performance.
+- Phones and Chairs were the top-selling products.
+- Dashboard Preview
 
 (Insert Executive Dashboard Screenshot Here)
 
