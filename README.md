@@ -1,4 +1,4 @@
-![Executive Dashboard](Images/executive_dashboard.png)
+![Executive Dashboard](Images\executive_dashboard.png)
 
 ![Strategic Insights Dashboard](Images\strategic_insights_dashboard.png)
 
