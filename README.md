@@ -51,7 +51,8 @@ Analyze business sales data to identify:
 - Technology emerged as the highest-value category.
 - West region generated the strongest sales performance.
 - Phones and Chairs were the top-selling products.
-- Dashboard Preview
+
+Dashboard Preview
 
 (Insert Executive Dashboard Screenshot Here)
 
@@ -61,27 +62,28 @@ Analyze business sales data to identify:
 🚀 Dashboard 2: Strategic Insights & Recommendations
 
 Revenue Insights
-Q4 generated the highest sales performance.
-Seasonal demand peaks during year-end periods.
-Profitability Insights
-Technology category delivers the highest profitability.
-Certain high-sales products require margin optimization.
-Regional Insights
-West region contributes the highest revenue and profit.
-South region presents growth opportunities.
-Growth Opportunities
-High-margin products show strong scaling potential.
-Product bundling can improve profitability.
-Strategic Recommendations
-Short-Term
-Optimize low-margin products
-Increase Q4 marketing efforts
-Mid-Term
-Expand operations in high-performing regions
-Improve pricing strategy
-Long-Term
-Invest in Technology category growth
-Develop predictive sales forecasting models
+- Q4 generated the highest sales performance.
+- Seasonal demand peaks during year-end periods.
+- Profitability Insights
+- Technology category delivers the highest profitability.
+- Certain high-sales products require margin optimization.
+- Regional Insights
+- West region contributes the highest revenue and profit.
+- South region presents growth opportunities.
+- Growth Opportunities
+- High-margin products show strong scaling potential.
+- Product bundling can improve profitability.
+- Strategic Recommendations
+- Short-Term
+- Optimize low-margin products
+- Increase Q4 marketing efforts
+- Mid-Term
+- Expand operations in high-performing regions
+- Improve pricing strategy
+- Long-Term
+- Invest in Technology category growth
+- Develop predictive sales forecasting models
+
 Dashboard Preview
 
 (Insert Strategic Insights Dashboard Screenshot Here)
@@ -90,8 +92,8 @@ Dashboard Preview
 
 This dashboard enables stakeholders to:
 
-Monitor sales performance
-Identify profitable categories and regions
-Detect growth opportunities
-Support strategic planning
-Improve profitability through data-driven decisions.
+- Monitor sales performance
+- Identify profitable categories and regions
+- Detect growth opportunities
+- Support strategic planning
+- Improve profitability through data-driven decisions.
